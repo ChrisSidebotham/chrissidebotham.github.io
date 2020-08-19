@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bio
-permalink: /bio
+permalink: /my-test-gh-pages.io/bio
 ---
 
 # Hi There 👋
