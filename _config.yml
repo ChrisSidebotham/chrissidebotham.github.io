@@ -53,4 +53,4 @@ plainwhite:
     - title: Home 
       url: "/my-test-gh-pages.io"
     - title: About Me
-      url: "/my-test-gh-pages.io/_pages/bio"
+      url: "/my-test-gh-pages.io/bio"
