@@ -36,6 +36,7 @@ plugins:
 plainwhite: 
   name: Chris Sidebotham
   tagline: Cloud Adoption. Microsoft 365 Specialist
+  portfolio_image:  "assets/Chris Sidebotham Headshot.png" # the path from the base directory of the site to the image to display (no / at the start)
   date_format: "%b %-d, %Y"
 
   social_links: 
