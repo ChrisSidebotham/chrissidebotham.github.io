@@ -37,7 +37,7 @@ plugins:
 
 plainwhite: 
   name: Chris Sidebotham
-  tagline: Cloud Adoption
+  tagline: Professional Services Engineer
   portfolio_image:  "assets/Memoji.png" # the path from the directory of the site to the image to display (no / at the start)
   date_format: "%b %-d, %Y"
   dark_mode: true
@@ -47,7 +47,7 @@ plainwhite:
     github: ChrisSidebotham
     linkedIn: in/ChrisSidebotham
     rss: rss
-    gitlab: ChrisSidebothamS
+    gitlab: ChrisSidebotham
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
