@@ -38,7 +38,7 @@ plugins:
 plainwhite: 
   name: Chris Sidebotham
   tagline: Cloud Adoption
-  portfolio_image:  "assets/memoji.png" # the path from the directory of the site to the image to display (no / at the start)
+  portfolio_image:  "assets/Memoji.png" # the path from the directory of the site to the image to display (no / at the start)
   date_format: "%b %-d, %Y"
   dark_mode: true
   search: true
