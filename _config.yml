@@ -37,7 +37,7 @@ plugins:
 
 plainwhite: 
   name: Chris Sidebotham
-  tagline: Microsoft 365 Specialist
+  tagline: Cloud Advocate. Microsoft 365 Specialist
   portfolio_image:  "assets/Memoji.png" # the path from the directory of the site to the image to display (no / at the start)
   date_format: "%b %-d, %Y"
   dark_mode: true
