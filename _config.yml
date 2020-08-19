@@ -27,6 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ChrisSidebotham
+show_excerpts: true
 
 # Build settings
 # theme: plainwhite
@@ -39,6 +40,7 @@ plainwhite:
   tagline: Cloud Adoption. Microsoft 365 Specialist
   portfolio_image:  "assets/Chris Sidebotham Headshot.png" # the path from the base directory of the site to the image to display (no / at the start)
   date_format: "%b %-d, %Y"
+  dark_mode: true
 
   social_links: 
     github: ChrisSidebotham
