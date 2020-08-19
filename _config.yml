@@ -41,6 +41,7 @@ plainwhite:
   portfolio_image:  "assets/Chris Sidebotham Headshot.png" # the path from the base directory of the site to the image to display (no / at the start)
   date_format: "%b %-d, %Y"
   dark_mode: true
+  search: true
 
   social_links: 
     github: ChrisSidebotham
