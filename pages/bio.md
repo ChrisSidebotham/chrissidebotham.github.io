@@ -4,6 +4,13 @@ title: Bio
 permalink: /bio/
 ---
 
-# Hi There 👋
+# Hi there 👋
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+- 🔭 I’m currently working on ... Creating a blog site
+- 🌱 I’m currently learning ... Python, Ruby
+- 👯 I’m looking to collaborate on ... Intune and Azure AD Helpers
+- 🤔 I’m looking for help with ... Making the cloud life easier
+- 💬 Ask me about ... Cloud Adoptions, Microsoft 365 Technologies
+- 📫 How to reach me: ... Linkedin https://www.linkedin.com/in/chris-sidebotham/
+- ⚡ Fun fact: ... Emoji's are awesome ⭐ Credit to https://HarryTraynor.io
