@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Creating a blog site
-- 🌱 I’m currently learning ... Markdown, Python, Ruby
+- 🔭 I’m currently working on ... Being Awesome
+- 🌱 I’m currently learning ... How to work this thing
 - 👯 I’m looking to collaborate on ... Intune and Azure AD Helpers
 
