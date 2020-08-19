@@ -51,6 +51,6 @@ plainwhite:
   
   navigation: 
     - title: Home 
-      url: "/"
+      url: "/my-test-gh-pages.io"
     - title: About Me
-      url: "/_pages/bio"
+      url: "/my-test-gh-pages.io/_pages/bio"

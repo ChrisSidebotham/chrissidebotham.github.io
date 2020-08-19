@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bio
-permalink: /bio/
+permalink: /bio
 ---
 
 # Hi There 👋
