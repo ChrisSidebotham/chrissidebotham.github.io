@@ -48,3 +48,9 @@ plainwhite:
     linkedIn: in/ChrisSidebotham
     rss: rss
     gitlab: ChrisSidebotham
+  
+  navigation: 
+    - title: Home 
+      url: "/"
+    - title: About Me
+      url: "/bio"
