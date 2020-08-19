@@ -53,4 +53,4 @@ plainwhite:
     - title: Home 
       url: "/"
     - title: About Me
-      url: "/bio"
+      url: "/_pages/bio"
