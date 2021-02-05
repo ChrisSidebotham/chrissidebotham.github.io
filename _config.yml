@@ -23,7 +23,7 @@ email: Chris@blackfishonline.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Blog Site for Chris Sidebotham - Professional Services Engingeer
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://blackfishonline.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ChrisSidebotham
 show_excerpts: true
 
@@ -48,8 +48,6 @@ plainwhite:
     gitlab: ChrisSidebotham
   
   navigation: 
-    - title: Home 
-      url: "/"
     - title: About Me
       url: "/bio"
     - title: Gallery
