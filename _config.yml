@@ -48,6 +48,8 @@ plainwhite:
     gitlab: ChrisSidebotham
   
   navigation: 
+    - title: Home
+      url: "/"    
     - title: About Me
       url: "/bio"
     - title: Gallery
