@@ -6,4 +6,4 @@ permalink: /gallery/
 
 # Hi there 👋
 
-![Falcon](/assets/falcon.jpg)
+![Falcon](/assets/Teams-Adoption.PNG)
