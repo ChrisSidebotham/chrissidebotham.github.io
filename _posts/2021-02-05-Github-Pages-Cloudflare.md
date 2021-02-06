@@ -10,7 +10,8 @@ Most of the time, a beginner git user’s big question is about how to attach a 
 ## Get a Domain
 
 You need a domain to attach. Buy a domain from any from your favourite registrar but make sure it supports a custom nameserver.
-![Registrar] (/assets/01/Registrar.png)
+
+![Registrar](/assets/01/Registrar.png)
 
 ## Set custom nameserver
 
@@ -20,7 +21,8 @@ Your domain needs to point to the Cloudflare server. So, you need to update the 
 gail.ns.cloudflare.com
 phil.ns.cloudlfare.com
 ```
-![nameserver] (/assets/01/ns01.png)
+
+![nameserver](/assets/01/ns01.png)
 
 ## Create a Cloudflare account and add a domain
 If you don’t have a Cloudflare account create one. And from ‘add site’ add your domain in Cloudflare. #Freebie
@@ -44,3 +46,5 @@ Now you need to update your domain’s DNS from Cloudflare’s DNS Panel. For ev
 
 Go to your Github Repository and from the repository settings, go to Github Pages and there you will have an option for adding a custom domain enter the domain used in the DNS Records above (e.g example.co.uk). Once your domain has been added
 ![GithubSettings](/assets/01/GH01.png)
+
+All Done!! 🎉🎉
