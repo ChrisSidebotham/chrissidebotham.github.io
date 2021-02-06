@@ -10,7 +10,7 @@ So for those that do not know me, I am Chris Sidebotham, I am based in the UK an
 
 This blog is a place for to braindump everything that I know and wish to write about. Over the course of my career I have come across many new technologies and spent hours searching the internet for bug fixes and resolutions! So this is me giving something back!  
 
-- 📫 How to reach me: Hit the links in the navigation!
+📫 How to reach me: Hit the links in the navigation!
 
 ### 📜 Certifications: 
 - Microsoft Azure 
