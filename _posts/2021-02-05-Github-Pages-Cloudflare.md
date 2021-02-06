@@ -11,7 +11,7 @@ Most of the time, a beginner git user’s big question is about how to attach a 
 
 You need a domain to attach. Buy a domain from any from your favourite registrar but make sure it supports a custom nameserver.
 
-![Registrar] (/assets/01/Registrar.png)
+![Registrar](/assets/01/Registrar.png)
 
 ## Set custom nameserver
 
@@ -22,7 +22,7 @@ gail.ns.cloudflare.com
 phil.ns.cloudlfare.com
 ```
 
-![nameserver] (/assets/01/ns01.png)
+![nameserver](/assets/01/ns01.png)
 
 ## Create a Cloudflare account and add a domain
 If you don’t have a Cloudflare account create one. And from ‘add site’ add your domain in Cloudflare. #Freebie
