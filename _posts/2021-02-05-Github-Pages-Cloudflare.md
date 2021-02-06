@@ -50,3 +50,5 @@ Go to your Github Repository and from the repository settings, go to Github Page
 ## All Done!! 🎉🎉
 
 This guide should give you enough to get started! Cloudflare is a expansive service to protect your domain. I highly recommend building out your firewall rules to prevent unwanted visitors! Check Back for my next post soon! 
+
+Chris 👋 
