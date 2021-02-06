@@ -2,10 +2,10 @@
 layout: post
 title: Get started - GitHub Pages with Cloudflare
 date: 2021-02-06 00:05:00 +0000
-categories: Github Cloudflare
+categories: Github Cloudflare Free
 ---
 
-Most of the time, a beginner git user’s big question is about how to attach a custom domain to a Github page. And it was the same for me also. But now it’s not and that’s why I’ve written this guide about how you can use a custom domain in your Github page and add Cloudflare also. So, Let’s get started.
+So you have your Github page ready to go, but you want to use a custom domain, this can be a struggle for any beginner user. So I have written this guide about how you can use a custom domain in your Github page and integrate with Cloudflare. All of these services have free tiers to utilise. So, Let's get started!  
 
 ## Get a Domain
 
@@ -47,4 +47,6 @@ Now you need to update your domain’s DNS from Cloudflare’s DNS Panel. For ev
 Go to your Github Repository and from the repository settings, go to Github Pages and there you will have an option for adding a custom domain enter the domain used in the DNS Records above (e.g example.co.uk). Once your domain has been added
 ![GithubSettings](/assets/01/GH01.png)
 
-All Done!! 🎉🎉
+## All Done!! 🎉🎉
+
+This guide should give you enough to get started! Cloudflare is a expansive service to protect your domain. I highly recommend building out your firewall rules to prevent unwanted visitors! Check Back for my next post soon! 
