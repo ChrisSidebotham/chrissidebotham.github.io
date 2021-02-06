@@ -41,6 +41,11 @@ plainwhite:
   dark_mode: true
   search: true
 
+  condensed_mobile:
+    - home
+    - post
+    - page
+
   social_links: 
     github: ChrisSidebotham
     linkedIn: in/ChrisSidebotham
