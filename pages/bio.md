@@ -12,20 +12,20 @@ This blog is a place for to braindump everything that I know and wish to write a
 
 - 📫 How to reach me: Hit the links in the navigation!
 
-## 📜 Certifications: 
+### 📜 Certifications: 
 - Microsoft Azure 
 - Microsoft 365
 - Datto BCDR
 - AWS Cloud Practioner
 - Oracle Cloud Infrastructure
 
-## 🎮 Hobbies: 
+### 🎮 Hobbies: 
 - Climbing 
 - Gaming 
 - Cycling 
 - Hiking
 
-## 💡 Interests
+### 💡 Interests
 - Everything Tech! 
 - Motorsports
 - Outdoors
