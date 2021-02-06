@@ -40,6 +40,7 @@ plainwhite:
   date_format: "%b %-d, %Y"
   dark_mode: true
   search: true
+  html_lang: "en-GB"
 
   condensed_mobile:
     - home
