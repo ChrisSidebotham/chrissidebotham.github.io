@@ -46,3 +46,5 @@ Now you need to update your domain’s DNS from Cloudflare’s DNS Panel. For ev
 
 Go to your Github Repository and from the repository settings, go to Github Pages and there you will have an option for adding a custom domain enter the domain used in the DNS Records above (e.g example.co.uk). Once your domain has been added
 ![GithubSettings](/assets/01/GH01.png)
+
+All Done!! 🎉🎉
