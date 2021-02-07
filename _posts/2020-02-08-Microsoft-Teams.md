@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My View on Microsoft Teams"
-date:   2020-02-18 18:00:00 +0000
+date:   2021-01-10 18:00:00 +0000
 categories: Teams
 ---
 In a world where millions of people are working from home, keeping in touch can be difficult! Over the last few years Microsoft Teams has adapted and evolved into one of the largest all-in-one collaboration platforms. Teams isn't about moving to a new application, it's about enhancing and improving the way we all work within the Microsoft 365.
