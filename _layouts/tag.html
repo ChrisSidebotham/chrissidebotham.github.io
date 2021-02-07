@@ -1,27 +1,57 @@
 ---
 layout: default
-plainwhite:
-  small_header: true
 ---
 
-<p class="posts-label">‹ <a href="{{ '/' | relative_url }}#latest-posts" title="Back to the home page">View all posts</a></p>
-<h1>Tag: {{ page.title | escape }}</h1>
-<p class="posts-label">{%- if site.tags[page.tag].size == 1 -%} 1 post {%- else -%} {{ site.tags[page.tag].size }} posts {%- endif -%}</p>
+{%- if page.title -%}
+  <h1 class="page-heading">{{ page.title }}</h1>
+{%- endif -%}
 
-{%- for post in site.tags[page.tag] -%}
-<div class="posts-row">
-  {%- assign date_format = site.plainwhite.date_format | default: "%-e %b %Y" -%}
-  <a class="post-link" href="{{ post.plainwhite.linked_href | default: post.url | relative_url }}">
-    <h2 class="post-title">{{ post.title | escape }}</h2>
-  </a>
-  <a class="post-date" href="{{ post.url | relative_url }}" tabindex="-1"><time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: date_format }}</time></a>
-  {%- if site.plainwhite.show_excerpts -%}
-  <div class="post">
-    {{- post.excerpt -}}
-    {%- if post.excerpt != post.content -%}
-    <a class="screen-reader-text" href="{{ post.plainwhite.linked_href | default: post.url | relative_url }}">Continue reading "{{ post.title | escape }}".</a>
-    {%- endif -%}
-  </div>
-  {%- endif -%}
-</div>
-{%- endfor -%}
+{{ content }}
+
+{%- if site.posts.size > 0 -%}
+  <ul class="posts">
+    <li class="posts-labelgroup" id="posts-labelgroup">
+      <h1 id="posts-label">posts</h1>
+      {% if site.plainwhite.search %}
+      <div class="search-container">
+        <div class="search-section">
+          <i class="icon-search"></i>
+          <input type="text" name="search" id="searchbar" autocomplete="off" aria-label="search in posts">
+        </div>
+        <div class="search-results" id="search-results" data-placeholder="No Results" style="display: none;"></div>
+      </div>
+      {% endif %}
+    </li>
+
+    {%- for post in site.tags[post.tag] -%}
+      <li>
+        {%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          <h2 class="post-title">{{ post.title | escape }}</h2>
+        </a>
+        <div class="post-meta">
+          <div class="post-date">
+            <i class="icon-calendar"></i>
+            {{ post.date | date: date_format }}
+          </div>
+          {%- if post.categories.size > 0-%}
+          <ul class="post-categories">
+            {%- for tag in post.categories -%}
+            <li>{{ tag }}</li>
+            {%- endfor -%}
+          </ul>
+          {%- endif -%}
+        </div>
+        <div class="post">
+          {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+          {%- endif -%}
+        </div>
+      </li>
+    {%- endfor -%}
+  </ul>
+
+  <!-- <p class="feed-subscribe"><svg class="svg-icon orange">
+		<use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use>
+	</svg><a href="{{ "/feed.xml" | relative_url }}">Subscribe</a></p> -->
+{%- endif -%}
