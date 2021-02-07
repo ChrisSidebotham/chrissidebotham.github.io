@@ -37,7 +37,6 @@ a {
     color: $linkColor;
   }
 }
-
 h2 {
   margin: 0.7em 0;
   @media screen and (max-width: $mobileW) {
@@ -73,6 +72,11 @@ main {
       max-width: calc(100% - #{$leftWidth});
       margin-left: $leftWidth;
       width: 100%;
+    }
+    h1 {
+      font-size: 30px;
+      margin-top: 25px;
+      text-align: center;
     }
   }
   .about {
