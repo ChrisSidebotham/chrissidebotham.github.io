@@ -1,5 +1,7 @@
 ---
 layout: default
+plainwhite: 
+    small_header: true
 ---
 
 {%- if page.title -%}
@@ -23,7 +25,7 @@ layout: default
       {% endif %}
     </li>
 
-    {%- for post in site.tags[post.tag] -%}
+    {%- for post in site.tags[page.tag] -%}
       <li>
         {%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
         <a class="post-link" href="{{ post.url | relative_url }}">
