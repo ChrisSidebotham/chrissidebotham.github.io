@@ -13,6 +13,7 @@ remote_theme: samarsault/plainwhite-jekyll
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-relative-links
 
 plainwhite: 
   name: Chris Sidebotham
