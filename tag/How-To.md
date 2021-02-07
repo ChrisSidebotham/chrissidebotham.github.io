@@ -1,5 +1,5 @@
 ---
 layout: tag
-title: How To's
+title: Guides
 tag: Guide
 ---
