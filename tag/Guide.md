@@ -1,5 +1,5 @@
 ---
-layout: tag
+layout: tagpage
 title: Guides
 tag: Guide
 ---
