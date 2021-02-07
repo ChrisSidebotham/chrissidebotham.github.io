@@ -10,7 +10,7 @@ show_excerpts: true
 # Build settings
 # theme: plainwhite
 remote_theme: samarsault/plainwhite-jekyll
-theme: plainwhite
+# theme: plainwhite
 
 plugins:
   - jekyll-feed
