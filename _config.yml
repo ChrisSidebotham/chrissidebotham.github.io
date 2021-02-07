@@ -39,5 +39,3 @@ plainwhite:
       url: "/"    
     - title: About Me
       url: "/bio"
-    - title: Gallery
-      url: "/gallery"
