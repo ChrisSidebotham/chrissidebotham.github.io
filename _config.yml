@@ -10,6 +10,8 @@ show_excerpts: true
 # Build settings
 # theme: plainwhite
 remote_theme: samarsault/plainwhite-jekyll
+theme: plainwhite
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
