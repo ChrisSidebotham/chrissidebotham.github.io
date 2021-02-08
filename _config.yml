@@ -26,7 +26,7 @@ plainwhite:
   search: true
   sitemap: true
   html_lang: "en-GB"
-  discus_shortname: blackfishonline
+  disqus_shortname: blackfishonline
 
   condensed_mobile:
     - home
