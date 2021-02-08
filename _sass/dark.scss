@@ -1,7 +1,8 @@
 .dark,
 .dark * {
 	$dark_text_color: #f6f6f6;
-	$dark_link_color: #4da3ff;
+	$dark_link_color: #fff;
+	$dark_hover_color: #aaa;
 	background-color: #171717;
 	color: $dark_text_color;
 	border-color: #e6e6e6;
@@ -52,11 +53,14 @@
 
 	a {
 		color: $dark_link_color;
+		&:hover {
+			color: $dark_hover_color;
+		}
 	}
 	#title a {
 		color: #fff;
 		&:hover {
-			color: $dark_link_color;
+			color: $dark_hover_color;
 		}
 	}
 
