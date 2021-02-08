@@ -35,7 +35,8 @@ plainwhite:
 
   social_links: 
     github: ChrisSidebotham
-    linkedIn: in/ChrisSidebotham
+    linkedIn: in/Chris-Sidebotham
+    Email: Chris.Sidebotham@blackfishonline.co.uk
     rss: rss
     gitlab: ChrisSidebotham
   
@@ -44,5 +45,7 @@ plainwhite:
       url: "/"    
     - title: About Me
       url: "/bio"
+    - title: News
+      url: "/tags/News"
     - title: Guides
       url: "/tags/Guide"
