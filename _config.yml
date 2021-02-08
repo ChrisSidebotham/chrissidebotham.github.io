@@ -44,3 +44,5 @@ plainwhite:
       url: "/"    
     - title: About Me
       url: "/bio"
+    - title: Guides
+      url: "/tags/Guide"
