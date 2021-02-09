@@ -4,8 +4,16 @@
 	$dark_link_color: #fff;
 	$dark_hover_color: #aaa;
 	background-color: #171717;
-	color: $dark_text_color;
+	// color: $dark_text_color;
 	border-color: #e6e6e6;
+
+	p, h2, .posts h2 a, .post-date, li, h3, table {
+		color: $dark_text_color;
+	}
+
+	.post-title:hover, .posts h2 a:hover{
+		color: $dark_hover_color;
+	}
 
 	.about{
 		img.light {
