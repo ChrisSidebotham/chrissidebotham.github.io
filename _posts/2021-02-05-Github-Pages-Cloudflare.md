@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To - GitHub Pages with Cloudflare
+title: How To - GitHub Pages & Cloudflare
 date: 2021-02-05 20:20:00 +0000
 categories: Github Cloudflare Guide
 ---
