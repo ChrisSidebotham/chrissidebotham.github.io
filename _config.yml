@@ -8,7 +8,7 @@ github_username:  ChrisSidebotham
 show_excerpts: true
 
 # Build settings
-theme: plainwhite
+# theme: plainwhite
 remote_theme: samarsault/plainwhite-jekyll
 # theme: plainwhite
 
