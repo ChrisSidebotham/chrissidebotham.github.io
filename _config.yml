@@ -48,3 +48,5 @@ plainwhite:
       url: "/tags/News"
     - title: Guides
       url: "/tags/Guide"
+    - title: Microsoft & Azure
+      url: "/tags/Microsoft"
