@@ -2,7 +2,7 @@
 layout: post
 title:  "Emojis Are Awesome"
 date:   2020-06-20 18:00:00 +0000
-categories: Teams
+categories: Teams Microsoft
 ---
 I find myself using emojis all the time and work and in my personal communications. Love or hate them, I think they add a level of communication that is visual and easier to understand than words. Even down to the simple 👍 to say thanks for something. Now if you know Teams, you have probably already discovered and used them in loads of different ways. However there is a quicker way to add them to messages - **short codes**!
 
