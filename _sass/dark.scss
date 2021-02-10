@@ -2,7 +2,7 @@
 .dark * {
 	$dark_text_color: #f6f6f6;
 	$dark_link_color: #fff;
-	$dark_hover_color: #aaa;
+	$dark_hover_color: #db7500;
 	background-color: #171717;
 	// color: $dark_text_color;
 	border-color: #e6e6e6;
@@ -28,7 +28,10 @@
 	}
 
 	.social [class^="icon-"] {
-		color: $dark_text_color
+		color: $dark_text_color;
+		&:hover{
+			 color: $dark_hover_color;
+			}
 	}
 
 	#posts-label {
