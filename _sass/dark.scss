@@ -3,6 +3,8 @@
 	$dark_text_color: #f6f6f6;
 	$dark_link_color: #fff;
 	$dark_hover_color: #db7500;
+	$dark_code_color: #bebebe;
+	$dark_code_background_color: #101010;
 	background-color: #171717;
 	// color: $dark_text_color;
 	border-color: #e6e6e6;
@@ -42,8 +44,8 @@
 	@import 'ext/solarized-dark';
 	.highlight, .highlight *
 	{
-		background-color: #00080a;
-		color: #93a1a1;
+		background-color: $dark_code_background_color;
+		color: $dark_code_color;
 	}
 
 	div.highlight-dark {
@@ -53,6 +55,8 @@
 		font-family: 'Consolas', Menlo, monospace;
 		line-height: 1.4em;
 		tab-size: 4;
+		background-color: $dark_code_background_color;
+		color: $dark_code_color;
 	}
 
 	.post-categories {

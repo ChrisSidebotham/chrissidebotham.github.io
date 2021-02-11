@@ -20,7 +20,7 @@ Before you decide all resources groups need to have 'Awesome-Group' in the name,
 {:style="th"}
 |    Service          | Limitation       |
 |--------------------	|-------	    |
-| Servers      	        | Can't use space or these characters:<br><code>&emsp;&emsp;&emsp;\/"'[]:<>+=;,?*@&_|`</code> <br>1-15 Character Limit (Windows)<br>1-64 Character Limit (Linux)     	    |
+| Servers      	        | Can't use space or these characters:<br><code>\/"'[]:<>+=;,?*@&_|`</code> <br>1-15 Character Limit (Windows)<br>1-64 Character Limit (Linux)     	    |
 | Storage Accounts    | Lowercase letters and numbers. <br> Names need to be unique for DNS on Microsoft Namespace    	    |
 | Automation Accounts 	        | Alphanumerics and hyphens. <br>Start with a letter, and end with an alphanumeric.    	     |
 | Front Door     	        | Start and end with an alphanumeric.          |
