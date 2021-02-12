@@ -66,6 +66,19 @@
 		}
 	}
 
+	.gist-meta a {
+		background: transparent;
+	}
+
+	.gist .blob-code, .gist .blob-num {
+		background-color: #eaeaea;
+		border: transparent;
+	}
+
+	[class^="pl"] {
+		background-color: transparent;
+	}
+
 	a {
 		color: $dark_link_color;
 		&:hover {

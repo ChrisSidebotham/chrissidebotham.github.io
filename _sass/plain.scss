@@ -300,6 +300,9 @@ table {
     font-family: Raleway;
   }
 }
+.gist .blob-code, .gist .blob-num {
+  border: transparent;
+}
 
 footer {
   display: none;
