@@ -3,6 +3,7 @@ layout: post
 title: Azure - Headaches of Naming Conventions
 date: 2021-02-10 22:00:00 +0000
 categories: Azure Guide Microsoft Naming
+comments: true
 ---
 
 So let's talk about Azure... and how much of a headache naming standards can be, should it be vm-test-01 or win-vm-test-01 or even test-prod-win-01. Well the hard truth is, there is no correct way of naming your resources. This can make working in multiple subscriptions quite daunting and confusing with those resources you don't see as often!

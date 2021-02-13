@@ -3,6 +3,7 @@ layout: post
 title: How To - Cloudflare Firewall Rules 
 date: 2021-02-06 22:30:00 +0000
 categories: Github Cloudflare Firewall Guide
+comments: true
 ---
 
 Cloudflare Firewall Rules is a powerful and flexible security tool to filter web application traffic. Announced back in October 2018, Cloudflare Firewall Rules is available for all tiers with limitations on the number of rules that can be deployed. 

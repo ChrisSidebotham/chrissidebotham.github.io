@@ -2,7 +2,8 @@
 layout: post
 title: News - NZXT H1 Case Recall  
 date: 2021-02-07 22:30:00 +0000
-categories: Gaming News NZXT Recall 
+categories: Gaming News NZXT Recall
+comments: false
 ---
 
 Do you have an NZXT H1 Case? If so, make sure you read this post! If you are not aware, NZXT created the H1 Case design with a single flaw.... its a fire hazard. 

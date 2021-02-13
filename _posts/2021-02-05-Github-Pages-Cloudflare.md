@@ -3,6 +3,7 @@ layout: post
 title: How To - GitHub Pages & Cloudflare
 date: 2021-02-05 20:20:00 +0000
 categories: Github Cloudflare Guide
+comments: true
 ---
 
 So you have your Github page ready to go, but you want to use a custom domain, this can be a struggle for any beginner user. So I have written this guide about how you can use a custom domain in your Github page and integrate with Cloudflare. All of these services have free tiers to utilise. So, Let's get started!  
