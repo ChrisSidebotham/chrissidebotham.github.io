@@ -6,9 +6,9 @@ categories: Azure Guide Microsoft ARM
 comments: true
 ---
 
-If your an Azure customer, I'm sure you have spent many hours deploying resources using the Azure Portal and you begin to get tired of clicking through the same options. The next step is too move to a Infrastructure-as-code deployment. In this post I will be covering the Azure Resource Manager Templates, stayed tuned for more articles about Terraform and Azure DevOps.
+If your an Azure customer, I'm sure you have spent many hours deploying resources using the Azure Portal and you begin to get tired of clicking through the same options. The next step is too move to a Infrastructure as code deployment. In this post I will be covering the Azure Resource Manager Templates, stayed tuned for more articles about Terraform and Azure DevOps.
 
-## What is Infrastructure-as-code 
+## What is Infrastructure as code 
 
 Infrastructure as Code (IaC) is the process of managing and provisioning resources from definitions without the use of interactive tools. If we look at the basics, IaC provides an entry point to automated deployment, CI/CD, and uniformed management. In some cases, IaC allows the administrator to deploy resources and achieve a repeatable and consistent result.  
 
