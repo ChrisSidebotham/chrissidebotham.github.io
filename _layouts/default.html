@@ -11,6 +11,7 @@
 {% assign condensed_class = "" %}
 {%- endif -%}
 
+
 <body>
   <main class="container">
     <section class="about">
@@ -148,6 +149,7 @@
       {%- endif -%}
       <p class="about-footer {{condensed_class}}">&copy;
         {{ "now" | date: "%Y" }}</p>
+        <a href="/privacy" target="/privacy">Privacy</a>
       {%- if site.plainwhite.dark_mode -%}
       <div class="about-footer {{condensed_class}}">
         <p>Dark Mode
@@ -173,6 +175,24 @@
   <script type="text/javascript" src="{{ "/assets/js/darkmode.js" | relative_url }}"></script>
   {% endif %}
 
+  <script>
+  if (localStorage.getItem('cookieSeen') != 'shown') {
+    $(document).ready(function(){   
+        setTimeout(function () {
+            $("#cookieConsent").fadeIn(200);
+        }, 4000);
+        $("#closeCookieConsent, .cookieConsentOK").click(function() {
+            $("#cookieConsent").fadeOut(200);
+            localStorage.setItem('cookieSeen','shown')
+        }); 
+    });
+  }; 
+  </script>
+<div id="cookieConsent">
+  <div id="closeCookieConsent">x</div>
+  This website is using cookies. <a href="/privacy" target="/privacy">More info</a>. <a class="cookieConsentOK">That's Fine</a>
+</div>
+
   {%- if site.plainwhite.analytics_id -%}
   <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.plainwhite.analytics_id }}"></script>
   <script>
@@ -187,6 +207,7 @@
   <script src="{{ "/assets/js/simple-jekyll-search.min.js" | relative_url }}"></script>
   <script src="{{ "/assets/js/search.js" | relative_url }}"></script>
   {% endif %}
+
 </body>
 
 </html>
