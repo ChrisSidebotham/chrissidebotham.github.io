@@ -3,7 +3,7 @@ layout: post
 title: News - Its The Last Straw For LastPass
 date: 2021-02-19 20:30:00 +0000
 categories: Password-Manager News LastPass Security 
-comments: false
+comments: true
 ---
 
 Good password management is critical for protecting your personal and business identity from breaches and harmful attacks. LastPass offered unlimited access to passwords from both desktop and mobile applications with a very smooth user experience for no charge. Today that changes!
