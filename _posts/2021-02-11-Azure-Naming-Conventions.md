@@ -35,7 +35,7 @@ Before you decide all resources groups need to have 'Awesome-Group' in the name,
 
 When you first start building resources its easy to get your logic wrong and get stuck into a naming policy that does not make any sense to an outsider. firstly, I like to find a base identifier, this can be anything that will be uniform across your resources to identify your tenancy, subscription or customer. For example, if we have a subscription called 'Contoso Development' our base identifier could be `CD` or `CDEV`. I prefer to keep the base identifier as short as possible, but you do want to make sure it is descriptive. 
 
-Next, you need to decide how you will structure your logic, this is a topic that has been known to cause many heated debates so lets try and avoid that! Personally, I like to structure my naming logic to be descriptive to outsiders and easy to navigate when veiwing all resources. Whichever structure you pick I believe it's important to include the following Identifiers where possible:
+Next, you need to decide how you will structure your logic, this is a topic that has been known to cause many heated debates so lets try and avoid that! Personally, I like to structure my naming logic to be descriptive to outsiders and easy to navigate when viewing all resources. Whichever structure you pick I believe it's important to include the following Identifiers where possible:
 
 {:style="th"}
 |    Service          | Limitation        |
