@@ -6,7 +6,7 @@ categories: Azure Guide Microsoft ARM
 comments: true
 ---
 
-If your an Azure customer, I'm sure you have spent many hours deploying resources using the Azure Portal and you begin to get tired of clicking through the same options. The next step is too move to a Infrastructure as code deployment. In this post I will be covering the Azure Resource Manager Templates, stayed tuned for more articles about Terraform and Azure DevOps.
+If your an Azure customer, I'm sure you have spent many hours deploying resources using the Azure Portal and you begin to get tired of clicking through the same options. The next step is too move to a Infrastructure as code deployment. In this post I will be covering the Azure Resource Manager Templates, stay tuned for more articles about Terraform and Azure DevOps.
 
 ## What is Infrastructure as code 
 
