@@ -6,7 +6,7 @@ categories: Azure Guide Microsoft Naming
 comments: true
 ---
 
-Azure has several means of managing compliance and many ways of tracking deployments. I a previous post I discussed getting started with Azure ARM Templates to keep deployments uniformed and consistent across your environment. This time let's take a look at Azure Policy and the fundamental benefits even basic policies can have to keep your deployments consistent and compliant no matter who joins the workforce!
+Azure has several means of managing compliance and many ways of tracking deployments. In a previous post, I discussed getting started with Azure ARM Templates to keep deployments uniformed and consistent across your environment. This time, let's take a look at Azure Policy and the fundamental benefits even basic policies can have to keep your deployments consistent and compliant, no matter who joins the workforce!
 
 ## What is Azure Policy
 Azure Policy is a service that allows organizations to enforce standards and assess compliance at-scale. Azure Policy provides the ability to perform a deep dive of resources and services on a per policy granularity, implementing compliance, security, cost control and resource management. Azure Policy is built on definitions and initiatives and is effectively treated as rules in the Azure Environment, once these rules are formed an evaluation will be completed as part of the resource lifecycle. These rules are built on JSON logic and form a policy definition, a series of policy definitions can be grouped to form an Initiative definition. If you have enabled the Azure Security centre, then you may have seen Azure Policy in action! 
