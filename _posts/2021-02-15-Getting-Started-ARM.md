@@ -64,7 +64,7 @@ TIP: when you build your template in VS Code, You can automatically generate a p
 ## Deploying ARM Templates
 Now we have an ARM template, we need to figure out how we are going to deploy them. Firstly, ARM Templates support two modes of deployment, Incremental and Complete. By default incremental is selected if a mode is not specified, this will incrementally deploy the resources you specified.
 
-**(Note: If you are redeploying over the top of existing resources, all properties will be overwritten not incrementaly updated)**
+**(Note: If you are redeploying over the top of existing resources, all properties will be overwritten not incrementally updated)**
 
 Complete mode validates your template to be the exact configuration for the targeted deployment. For example, if you are deploying to an existing resource group, any existing resources that are not defined in the template will be deleted. 
 
