@@ -45,6 +45,8 @@ Another exciting update for Azure Networking enthusiasts is Azure Route Server. 
 
 Learn more about [Azure Route server.](https://docs.microsoft.com/en-us/azure/route-server)
 
+<hr>
+
 ## Azure Monitor for Windows Virtual Desktop
 Azure Monitor has been a single pane of glass experience for administrators and champions to monitor the health of resources, network and applications. Microsoft has announced that Azure Monitor for Windows Virtual Desktop will become generally available in the next few weeks. Azure Monitor’s capabilities will provide a centralized view of Azure alerts, Agent errors, Host warnings and health thresholds. 
 
