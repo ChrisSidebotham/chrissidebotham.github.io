@@ -1,6 +1,6 @@
 ---
 layout: post
-title: News - Wrapping up Microsoft Ignite 2021
+title: News - Wrapping up Microsoft Ignite 2021 🙌
 date: 2021-03-05 08:00:00 +0000
 categories: Microsoft Azure Ignite Teams Mixed-Reality
 comments: true
