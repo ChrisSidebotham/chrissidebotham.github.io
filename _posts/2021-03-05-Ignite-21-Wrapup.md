@@ -6,9 +6,9 @@ categories: Microsoft Azure Ignite Teams Mixed-Reality
 comments: true
 ---
 
-![Ignite2021](/assets/03/Microsoft-Ignite-Logo.jpg)
-
 March 2021 has arrived and which means another round of Microsoft Ignite has come and passed all too fast! Once again Microsoft has hosted a fully digital Ignite. However, Microsoft Ignite did not disappoint in delivering announcements, features and amazing content! For this post, I wanted to wrap up my top picks from the latest announcements at Ignite. But don’t worry, if you want to check out all the new feature yourself, head over to the [Microsoft Ignite Book of News!](https://news.microsoft.com/ignite-march-2021-book-of-news/?_lrsc=9e87c11a-b95f-4035-8e10-a54ad7442a35)
+
+![Ignite2021](/assets/03/Microsoft-Ignite-Logo.png)
 
 <hr>
 
