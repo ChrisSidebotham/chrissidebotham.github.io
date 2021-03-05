@@ -62,7 +62,8 @@ Learn more about [Power Automate Desktop.](https://flow.microsoft.com/en-us/blog
 <hr>
 
 ## Microsoft Power Fx 
-Gone are the days of VBA! 🎉 
+Gone are the days of VBA! 🎉
+ 
 With rumours coming out for the woodwork a month or two ago, Power Fx was leaked with the slogan ‘Think VBA’. Microsoft Power Fx is the first low-code language to be published for logic customisation across the Power Platform. Power Fx is the heart of Canvas Apps and while the language may be available now, Microsoft is working hard to integrate with Power Virtual Agents, Microsoft Dataverse and Model-Driven Apps. Low-code enables development from “no-code” to “Pro-Code” with no setbacks in-between. 
 
 Learn more about [Power Fx.](https://powerapps.microsoft.com/en-us/blog/what-is-microsoft-power-fx)
