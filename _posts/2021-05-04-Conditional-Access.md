@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Started - Conditional Access
+title: Getting Started - Conditional Access 🔐
 date: 2021-06-10 08:00:00 +0000
 categories: Microsoft Azure Security MFA
 comments: true
