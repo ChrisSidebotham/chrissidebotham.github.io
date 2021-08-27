@@ -8,7 +8,7 @@ comments: true
 
 For those that don't know me personally, I am an avid climber - I love nothing more than heading to a new wall or crag and climbing the day away! Within my social group we play a game called 'Crag Golf', essentially we all pick a route and complete it in the fewest moves. Overall the winner is the person who did the most climbs in fewest moves. All results were being recorded in Microsoft Excel and PowerApps allows me to bring a UI to front this data. 
 
-For this blog post im not going to do into every details about how to make a replica application but cover off the areas of which I found useful. So let's get started! 
+For this blog post im not going to go into every details about how to make a replica application but cover off the areas of which I found useful. So let's get started! 
 
 ## What is Microsoft PowerApps?
 Microsoft PowerApps has been a platform utilized by many ignored by most. PowerApps in a nutshell is a mobile and web app development platform. Unlike traditional Application Development, PowerApps does not require extensive knowledge of multiple languages and instead targets what users already know... Power Fx (Microsoft Excel)! 
@@ -49,7 +49,7 @@ Now I have identified the data I need to collect for the app to meet my required
 
 - Grades - For each Grade we climb (This allows for us to climb in more than one Gym, Climbing Gyms often use different grading scales)
 
-- Climbs - This is the heart of the application, all data in here will be used to calculate the result and teh table for this looks something like this with example data: 
+- Climbs - This is the heart of the application, all data in here will be used to calculate the result and the table for this looks something like this with example data: 
 
 {:style="th"}
 |Name|Grade|Date|Moves|Flash|DATA|
