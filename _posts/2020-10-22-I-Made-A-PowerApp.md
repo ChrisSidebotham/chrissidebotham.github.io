@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PowerApps Basics - I Built A Thing!"
-date:   2021-08-22 18:00:00 +0000
+date:   2021-07-22 18:00:00 +0000
 categories: PowerApps Microsoft Development
 comments: true
 ---
