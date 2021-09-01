@@ -69,5 +69,6 @@ Using these synchronization options is a quick and powerful of ensuring your use
 
 This is the first post of many I have to come for dealing with your Azure AD Hybrid Identity, let me know in the comments below what you think or if you have any requests for any future articles. 
 
-Happy Building 
+Happy Building,
+
 Chris 👋
