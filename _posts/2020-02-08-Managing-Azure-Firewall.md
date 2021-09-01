@@ -2,7 +2,7 @@
 layout: post
 title:  Azure - Leveraging Azure Firewall 💡
 date:   2021-08-28 18:00:00 +0000
-categories: Azure Microsoft Firewall Tips
+categories: Azure Microsoft Firewall Guide
 comments: true
 ---
 

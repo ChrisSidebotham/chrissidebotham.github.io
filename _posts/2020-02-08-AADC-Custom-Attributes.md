@@ -2,7 +2,7 @@
 layout: post
 title:  Azure AD - Custom Attributes with Azure AD Connect 🔃
 date:   2021-09-01 20:00:00 +0000
-categories: Azure Microsoft GraphAPI AADConnect
+categories: Azure Microsoft Guide AADConnect
 comments: true
 ---
 
