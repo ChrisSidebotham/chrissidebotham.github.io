@@ -6,20 +6,26 @@ permalink: /bio/
 
 # Me & My Blog 👋
 
-So for those that do not know me, I am Chris Sidebotham, I am based in the UK and I have been around the Managed Service Provider (MSP) industry for most of my career, from IT Support to Project Consultancy. The majority of my professional has been spent dealing with Digital Transformation and Cloud Adoption. I have a vested interest for Everything Azure & Automation, Hopefully I can cover off most of what I have been working on behind the scenes in this blog. 
+I am Chris Sidebotham, Azure Infrastructure Consultant for Microsoft based in the UK. I have a keen passion for everything Azure & Automation, with a history of designing & deploying Azure Infrastructure & Automation Solutions, Modern Workplace Solutions. All views and articles on this site are my own and not of my employer.
 
-This blog is a place for me to brain dump everything that I know and wish to write about. Over the course of my career I have faced many new technologies and spent hours searching the internet for bug fixes and resolutions! So this is me giving something back!
+This blog is a place for me empower others with the hope it will help at least one person. Over the course of my career I have faced many new technologies and spent hours searching the internet for bug fixes and resolutions! So this is me giving something back!
 
 ### 💡 My Favorite Topics
-- Azure Automation 
+- Azure Automation
+- Azure Bicep 
 - Azure DevOps 
-- Infrastructure-as-Code 
+- Infrastructure-as-Code
+- Policy-as-Code 
 
 📫 How to reach me: Hit the links in the navigation!
 
 ### 📜 Certifications: 
-- Microsoft Azure 
-- Microsoft 365
+- Microsoft Azure Administrator Associate
+- Microsoft Azure Foundations 
+- Microsoft Security, Compliance & Identity Foundations
+- Microsoft 365 Teams Administrator Associate
+- Microsoft 365 Foundations
+- Microsoft Technology Associate: Networking 
 - Datto BCDR
 - Oracle Cloud Infrastructure
 
