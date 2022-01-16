@@ -10,14 +10,14 @@ I am Chris Sidebotham, Azure Infrastructure Consultant for Microsoft based in th
 
 This blog is a place for me empower others with the hope it will help at least one person. Over the course of my career I have faced many new technologies and spent hours searching the internet for bug fixes and resolutions! So this is me giving something back!
 
+Please feel free to contact me using any of the links in the navigation. 📬
+
 ### 💡 My Favorite Topics
 - Azure Automation
 - Azure Bicep 
 - Azure DevOps 
 - Infrastructure-as-Code
 - Policy-as-Code 
-
-📫 How to reach me: Hit the links in the navigation!
 
 ### 📜 Certifications: 
 - Microsoft Azure Administrator Associate
@@ -28,6 +28,8 @@ This blog is a place for me empower others with the hope it will help at least o
 - Microsoft Technology Associate: Networking 
 - Datto BCDR
 - Oracle Cloud Infrastructure
+
+View my Credly account [here](https://www.credly.com/users/christopher-sidebotham)
 
 ### 🎮 Hobbies: 
 - Climbing 
