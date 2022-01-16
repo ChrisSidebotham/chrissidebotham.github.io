@@ -6,14 +6,14 @@ categories: Azure Guide Microsoft Bicep
 comments: true
 ---
 
-Anyone who has worked with me on a technical side for the last year know about my love for Azure Bicep. It's something I haven't really blogged about due to the amount of content I have been creating for my employers. But now that changes! So in this post we will building on my previous post [Azure - Getting Started With ARM](https://blackfishonline.co.uk/azure/guide/microsoft/arm/2021/02/15/Getting-Started-ARM.html) and taking a look into how you can start to deploy infrastructure-as-code using Azure Bicep!
+Anyone who has worked with me on a technical side for the last year will know about my love for Azure Bicep. It's something I haven't really blogged about but now that changes! So in this post we will building on my previous post [Azure - Getting Started With ARM](https://blackfishonline.co.uk/azure/guide/microsoft/arm/2021/02/15/Getting-Started-ARM.html) and taking a look into how you can start to deploy infrastructure-as-code using Azure Bicep!
 
 ## What is Azure Bicep?
-[Azure Bicep](https://aka.ms/Bicep) is a [Domain-Specific Language (DSL)](https://aka.ms/vs22-dsl) which sits on top of a traditional ARM Deployment. Azure Bicep's goal as a DSL is a to simplify template & module creation, making more impactful reusable code and to address the pain points of a traditional ARM Template. Azure Bicep comes from the Azure Deployments Team, of which have accomplished some great achievements in making Bicep not only easy to write & understand but to maintain and deploy. If you are not familiar with ARM or Infrastructure-as-Code (IaC), check out my previous blog post exploring this - [Getting Started With ARM](https://blackfishonline.co.uk/azure/guide/microsoft/arm/2021/02/15/Getting-Started-ARM.html)
+[Azure Bicep](https://aka.ms/Bicep) is a [Domain-Specific Language (DSL)](https://aka.ms/vs22-dsl) which sits on top of a traditional ARM Deployment. Azure Bicep's goal as a DSL is to simplify template & module creation, making more impactful,  reusable code and to address the pain points of a traditional ARM Template. Azure Bicep comes from the Azure Deployments Team, of which have accomplished some great achievements in making Bicep not only easy to write & understand but to maintain and deploy. If you are not familiar with ARM or Infrastructure-as-Code (IaC), check out my previous blog post exploring this - [Getting Started With ARM](https://blackfishonline.co.uk/azure/guide/microsoft/arm/2021/02/15/Getting-Started-ARM.html)
 
 
 ## Why Azure Bicep
-Infrastructure-as-Code has become more popular in the recent years with tools like Terraform, Chef and Puppet dominating the scene. Azure Bicep is not created to be 'One tool to rule them all', but instead a preferred tool for Azure Resources. Using Azure Bicep we are not only greeted with a simplified syntax and the ability to comment production templates (Kudos to the Azure Deployments Team for that 💪) but instead a whole host of benefits over other options. I have detailed some below! 
+Infrastructure-as-Code has become more popular in the recent years with tools like Terraform, Chef and Puppet dominating the scene. Azure Bicep is not developed to be 'One tool to rule them all', but instead a preferred tool for Azure Resources. Using Azure Bicep we are not only greeted with a simplified syntax and the ability to comment production templates (Kudos to the Azure Deployments Team for that 💪) but instead a whole host of benefits over other options. I have detailed some below! 
 
 - Immediate access to all Resource types & API Versions
 - First-class authoring experience when using Visual Studio Code
@@ -39,7 +39,7 @@ Note: All of my code will be deployed using the Az CLI, Powershell can be used a
 
 ## Understanding a bicep template
 
-Similar to ARM Templates, the structure of a bicep template is build of of several keywords; 
+Similar to ARM Templates, the structure of a bicep template is built up of several keywords; 
 
 {:style="th"}
 | Section | Description |
@@ -55,7 +55,7 @@ The below template is targeted at subscription level. The deployment consists of
 
 {% gist 33f6c2f0deb3bfc80c2168c7e78b8bf9 %}
 
-As this is a local bicep template, I will be using the Azure CLI to initiate the deployment. Before I run the deployment, I want to test the template and see what is going to change in my environment. Running the What-If deployment allows for the real-time ARM validation to take place before telling what changes will be made. What-if is a good option to use if you are running pipeline deployments and would like to add an automated approval task. The below script allows us to run a what-if test with our templates, alternatively you may want to use Azure Powershell.
+As this is a local bicep template, I will be using the Azure CLI to initiate the deployment. Before I run the deployment, I want to test the template and see what is going to change in my environment. Running the What-If deployment allows for the real-time ARM validation to take place before telling what changes will be made. What-if is a good option to use if you are running pipeline deployments and would like to add an automated approval gate. The below script allows us to run a what-if test with our templates, alternatively you may want to use Azure Powershell.
 
 {% gist fad054f8d42987f92c87d2330847dba3 %}
 
